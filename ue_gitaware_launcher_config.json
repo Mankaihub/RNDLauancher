@@ -1,0 +1,9 @@
+{
+  "engine_dir": "E:/UE_5.4",
+  "uproject": "E:/ISLAND_PJ_Dev_Latest/ISLAND_PJ_Dev.uproject",
+  "autobuild": true,
+  "autogen": true,
+  "auto_check": true,
+  "ubt": "E:/UE_5.4\\Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe",
+  "editor": "E:/UE_5.4\\Engine/Binaries/Win64/UnrealEditor.exe"
+}

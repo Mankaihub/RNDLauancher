@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "E:\Test_new_tool\UE_GitAware_Launcher UE_GitAware_Launcher.py", line 558, in <module>
+    main()
+  File "E:\Test_new_tool\UE_GitAware_Launcher UE_GitAware_Launcher.py", line 555, in main
+    App().mainloop()
+  File "C:\Users\PC\AppData\Local\Programs\Python\Python37\lib\site-packages\customtkinter\windows\ctk_tk.py", line 157, in mainloop
+    self._windows_set_titlebar_color(self._get_appearance_mode())
+  File "C:\Users\PC\AppData\Local\Programs\Python\Python37\lib\site-packages\customtkinter\windows\ctk_tk.py", line 319, in _windows_set_titlebar_color
+    self.state(self._state_before_windows_set_titlebar_color)  # other states
+TypeError: 'dict' object is not callable
